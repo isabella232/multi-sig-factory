@@ -4,6 +4,8 @@ RSK Mainnet: [0xbda3deb48Ee37965B7D88EAc0a0E204bC2427c06](https://explorer.rsk.c
 
 RSK Testnet: [0x677bCBb40d511857d706f4D2E9825c96380c72F5](https://explorer.testnet.rsk.co/address/0x677bCBb40d511857d706f4D2E9825c96380c72F5)
 
+Source: [gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet)
+
 ## Create a Multi Sig
 
 1. Get the project
